@@ -7,6 +7,7 @@ import java.awt.Panel;
 import java.util.Date;
 import java.util.Random;
 
+
 @SuppressWarnings("serial")
 public class HyperCubePnl extends Panel implements Runnable {
 	private Image offscreenImg;
